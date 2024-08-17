@@ -1,4 +1,4 @@
-Keep Study
+Keep Studying
 
 <!---
 Schwar2/Schwar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
