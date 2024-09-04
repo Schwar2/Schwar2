@@ -1,10 +1,11 @@
-    life goal:Keep Studying
+>**life goal**:Keep Studying
 
-    contacts me:enelainatity@gmail.com
+>**studying**:CyberSecurity/philosophy/psychology/cryptology
+
+>**contacts me**:enelainatity@gmail.com
     
-    studying:cyber security/philosophy/psychology/cryptology
+***Cogito,ergo sum.***
 
-    Cogito,ergo sum.
 
 <!---
 Schwar2/Schwar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
