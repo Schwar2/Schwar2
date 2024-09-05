@@ -4,7 +4,6 @@
 
 >**contacts me**:enelainatity@gmail.com
     
-***Cogito,ergo sum.***
 
 
 <!---
