@@ -1,14 +1,11 @@
-# Welcome to My Profile
 
 ## About Me
-I specialize in **Binary Security** and **Linux Exploitation**. I am passionate about exploring vulnerabilities, developing exploits, and enhancing system security.
+I specialize in **Binary Security**. I am passionate about exploring vulnerabilities, developing exploits, and enhancing system security.
 
-## Skills
-- Binary Analysis
-- Exploit Development
-- Vulnerability Research
-- Linux Security
-- Reverse Engineering
+## Studing
+00000000 Binary Analysis
+00000004 PWN
+00000008 Reverse Engineering
 
 ## Contact Me
 Feel free to reach out to me at:  
