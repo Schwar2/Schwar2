@@ -1,6 +1,6 @@
 
 ## About Me
-I specialize in **Binary Security**. I am passionate about exploring vulnerabilities, developing exploits, and enhancing system security.
+I specialize in **Binary Security**.
 
 ## Studing
 00000000 Binary Analysis
