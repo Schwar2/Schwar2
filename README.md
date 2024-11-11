@@ -1,22 +1,11 @@
+```asm
+section .text
+    global _start
 
-## About Me
-I specialize in **Binary Security**.
-
-## Studing
-00000000 Binary Analysis
-
-00000004 PWN
-
-00000008 Reverse Engineering
-
-## Contact Me
-Feel free to reach out to me at:  
-**Email:** [enelainatity@gmail.com](mailto:enelainatity@gmail.com)
-
-
-
-    
-
+_start:
+    I am major in CyberSecurity
+    Studying PWN,Reverse 
+```
 
 <!---
 Schwar2/Schwar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
